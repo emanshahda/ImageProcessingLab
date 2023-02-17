@@ -1,10 +1,11 @@
 # <img  align="center" width= 70px height =55px src="https://i.pinimg.com/originals/47/b6/c4/47b6c47f518abdb5c58f4aa1c7eefcc8.gif"> ImageProcessing Labs
 <div align="center">
+<img align="center" width="250px" src="https://images.unsplash.com/photo-1607462109225-6b64ae2dd3cb?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTh8fHBob3RvZ3JhcGh5fGVufDB8fDB8fA%3D%3D&w=1000&q=80" alt="logo">
 <img align="center"  width="500px" src="https://static.photocdn.pt/images/articles/2018/12/05/articles/2017_8/beginner_photography_mistakes-1.webp" alt="logo">
 </div>
 
 
-## <img align= center width=50px height=50px src="https://images.squarespace-cdn.com/content/v1/59a09811cd0f681bc9d6e848/1518789286607-KNELMLP4NOIFC8LN1TXC/Book.gif?format=1000w">Agenda
+## <img align= center width=50px height=50px src="https://media.tenor.com/FnI6-vXaLN0AAAAi/picture-photo.gif">Agenda
 - <a href="https://github.com/emanshahda/ImageProcessingLab/blob/main/Lab1%20Intro/Lab_1_std.ipynb">Introduction to Image Processing & Noise & Histogram</a>
 - <a href="https://github.com/emanshahda/ImageProcessingLab/blob/main/Lab2%20Convolution%20%26%20DFT/lab2-std.ipynb">Convolution & Discrete Fourier Transform</a>
 - <a href="https://github.com/emanshahda/ImageProcessingLab/blob/main/Lab3%20smoothing/Lab_Smoothing_STD%20(1).ipynb">Averaging Filters</a>
